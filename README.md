@@ -1,6 +1,7 @@
 📰 Real-Time News Aggregator
 
 A centralized web application that fetches and displays real-time news from multiple sources, supports multilingual translation, dark mode, category filtering, and user feedback storage.
+
 The system includes:
 
 Real-time news fetching
